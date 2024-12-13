@@ -1,4 +1,4 @@
-<h1>Oie 👋, sou a Vanessa Scarin.</h1>
+<h1>Oie! 💫 Sou a Vanessa Scarin.</h1>
 <h3>Aqui você encontra minha jornada estudando desenvolvimento backend.</h3>
 
 - 🌳 Conhecimentos em: Linguagem C, framework SCRUM e Git.
