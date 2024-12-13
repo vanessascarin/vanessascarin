@@ -2,7 +2,7 @@
 <h3>Aqui você encontra minha jornada estudando desenvolvimento backend.</h3>
 
 - 🌳 Conhecimentos em: Linguagem C, metodologia ágil SCRUM e Git.
-- 🌱 Atualmente aprendendo **Golang.**
+- 🌱 Atualmente aprendendo: **Golang.**
 - 🌰 Próximas paradas: SQL e Java.
 - 📫 E-mail para contato: **vanessa.hb.scarin@gmail.com.**
 
