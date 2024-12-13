@@ -1,5 +1,5 @@
-<h1 align="center">Oie 👋, sou a Vanessa Scarin.</h1>
-<h3 align="center">Estou estudando a área de desenvolvimento backend.</h3>
+<h1>Oie 👋, sou a Vanessa Scarin.</h1>
+<h3>Estou estudando desenvolvimento backend.</h3>
 
 - 🌱 Atualmente estou aprendendo **Golang e Java.**
 
