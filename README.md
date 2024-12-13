@@ -1,7 +1,7 @@
 <h1>Oie 👋, sou a Vanessa Scarin.</h1>
-<h3>Estou estudando desenvolvimento backend.</h3>
+<h3>Aqui você encontra minha jornada estudando desenvolvimento backend.</h3>
 
-- 🌱 Atualmente estou aprendendo **Golang e Java.**
+- 🌱 Atualmente aprendendo **Golang e Java.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
