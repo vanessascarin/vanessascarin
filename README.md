@@ -1,8 +1,10 @@
 <h1>Oie 👋, sou a Vanessa Scarin.</h1>
 <h3>Aqui você encontra minha jornada estudando desenvolvimento backend.</h3>
 
-- 🌱 Atualmente aprendendo **Golang e Java.**
-- 📫 E-mail para contato: **vanessa.hb.scarin@gmail.com**
+- 🌳 Conhecimentos em: Linguagem C e framework de desenvolvimento ágil SCRUM.
+- 🌱 Atualmente aprendendo **Golang.**
+- 🐣 Próximas paradas: SQL e Java.
+- 📫 E-mail para contato: **vanessa.hb.scarin@gmail.com.**
 
 <h3 align="left">Vamos nos conectar:</h3>
 <p align="left">
